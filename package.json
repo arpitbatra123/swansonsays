@@ -1,0 +1,36 @@
+{
+  "name": "swansonsays",
+  "version": "1.0.0",
+  "description": "A fun tool that gives you some good ol' ron swanson wisdom",
+  "main": "index.js",
+  "homepage": "https://github.com/arpitbatra123/swansonsays#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitbatra123/swansonsays/swansonsays.git"
+  },
+  "scripts": {
+    "release": "npm publish --dry-run"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "ron",
+    "ron swanson",
+    "fun"
+  ],
+  "files": [
+    "bin/",
+    "index.js"
+  ],
+  "bin": {
+    "swansonsays": "bin/swansonsays"
+  },
+  "author": "Arpit Batra (arpitbatra123@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ora": "^4.0.4"
+  },
+  "devDependencies": {}
+}
