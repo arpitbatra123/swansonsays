@@ -6,7 +6,7 @@
   "homepage": "https://github.com/arpitbatra123/swansonsays#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arpitbatra123/swansonsays/swansonsays.git"
+    "url": "https://github.com/arpitbatra123/swansonsays"
   },
   "scripts": {
     "release": "npm publish --dry-run"

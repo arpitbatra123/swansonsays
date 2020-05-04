@@ -15,6 +15,5 @@ Run `npx swansonsays` on your terminal. You should have `npx` installed already 
 ## What is the source of these quotes?
 The quotes are being fetched from [this](http://ron-swanson-quotes.herokuapp.com/v2/quotes) API.
 
-## Was this neccesary?
+## Was this necessary?
 Does Ron Swanson love America?
-
